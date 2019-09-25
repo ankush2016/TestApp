@@ -9,6 +9,7 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/runnablemodule" />
             <option value="$PROJECT_DIR$/testmodule1" />
           </set>
         </option>
